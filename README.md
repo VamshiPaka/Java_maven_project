@@ -1,2 +1,2 @@
-# Java_maven_project
-A sample java project to generate build using Maven
+# java_maven_project
+This is simple java maven project for github actions
